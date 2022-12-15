@@ -1,0 +1,12 @@
+#path cache
+__pycache__
+.pytest_cache
+venv
+#database
+db.sqlite
+
+#testes
+main_inicio.py
+main2.py
+main3.py
+testeregex.py
